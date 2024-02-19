@@ -1,0 +1,70 @@
+{
+    "version": "1.1",
+    "data": [
+        {
+            "title": "Learning Python",
+            "paragraphs": [
+                {
+                    "context": "Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Python"
+                                }
+                            ],
+                            "question": "What is the programming language discussed?",
+                            "id": "1"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 61,
+                                    "text": "code readability"
+                                }
+                            ],
+                            "question": "What does Python's design philosophy emphasize?",
+                            "id": "2"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 119,
+                                    "text": "significant whitespace"
+                                }
+                            ],
+                            "question": "What is a notable feature of Python's syntax?",
+                            "id": "3"
+                        }
+                    ]
+                },
+                {
+                    "context": "Python supports multiple programming paradigms, including structured (particularly, procedural), object-oriented, and functional programming. Python is often described as a \"batteries included\" language due to its comprehensive standard library.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 8,
+                                    "text": "multiple programming paradigms"
+                                }
+                            ],
+                            "question": "What type of programming paradigms does Python support?",
+                            "id": "4"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 113,
+                                    "text": "\"batteries included\""
+                                }
+                            ],
+                            "question": "How is Python often described in terms of its standard library?",
+                            "id": "5"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
